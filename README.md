@@ -1,2 +1,0 @@
-# pessoal
-Projetos pessoais
